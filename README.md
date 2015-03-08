@@ -1,2 +1,2 @@
 # seven-languages-in-seven-weeks
-Programming excercises from Seven Languages in Seven Weeks
+Programming exercises from Seven Languages in Seven Weeks
